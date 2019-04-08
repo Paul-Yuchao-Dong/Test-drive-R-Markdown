@@ -32,3 +32,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ``` r
 ## OK nothing fancy for now
 ```
+
+``` r
+# So I've comeback to the master
+```
